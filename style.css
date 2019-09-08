@@ -1,0 +1,12 @@
+.container{
+    background-color: pink;
+    height: 900px;
+}
+
+.container div{
+    height: 100px;
+    width: 100px;
+    background-color: fuchsia;
+    border: 2px solid black;
+    margin: 10px;
+}
