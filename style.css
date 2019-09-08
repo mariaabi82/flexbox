@@ -1,9 +1,8 @@
 .container{
     background-color: pink;
     height: 900px;
-
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
 }
 
 .container div{
