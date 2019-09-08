@@ -1,6 +1,8 @@
 .container{
     background-color: pink;
     height: 900px;
+
+    display: flex;
 }
 
 .container div{
@@ -8,5 +10,5 @@
     width: 100px;
     background-color: fuchsia;
     border: 2px solid black;
-    margin: 10px;
+
 }
